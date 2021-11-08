@@ -5,6 +5,8 @@
 
 ✏️简单描述你的创意内容，将程序运行结果附在这里。
 
+help the yellow guy to take shelter from rain
+
 下雨啦！快操控豆豆人躲雨！
 
 快点击鼠标给ta带上帽子！
