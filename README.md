@@ -1,2 +1,2 @@
-# 520432910005-伦奕颖
-这是交大创意编程课的作业，使用的是processing图形编程
+# Yiying Lun's Processing works
+Assignment of the Creative Programming course in SJTU during 2021 Fall Semester
