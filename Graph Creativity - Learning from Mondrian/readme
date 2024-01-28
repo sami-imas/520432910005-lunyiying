@@ -1,0 +1,9 @@
+Explore the Graph by making Mondrian pictures alive
+
+My learning from Mondrian:
+Referring to Mondrian's work "Broadway Jazz", I found that it is mainly composed of long bars, rectangles and squares.
+The position of the strip is random, but the color and width are constant, and the position and color of the squares on the strip are random, but there must be a square at each junction.
+The rectangle in the picture is always attached to two sides of the strip.
+
+My creation:
+I made a dynamic Mondrian, mouse click, long bars, squares, rectangles can move around, to ensure that these rules meet, but also increase the interest.
